@@ -3,8 +3,11 @@ do usuário. O programa deve exibir a conversão da representação
 binária do vetor para um número decimal na tela.*/
 
 #include <stdio.h>
+#include <stdbool.h>
 
 int main() {
+
+bool V[10];
 
 return 0;
 }
